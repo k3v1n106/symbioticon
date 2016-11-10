@@ -6,6 +6,7 @@ public class TestZwo {
 		System.out.println("Was tue ich hier?");
 		System.out.println("keine Ahnung");
 		System.out.println("Wann kann ich gehen?");
+		System.out.println("Was ist das denn?");
 	}
 
 }
