@@ -6,6 +6,7 @@ public class HalloWelt {
 		System.out.println("Hier könnte Ihre Werbung stehen.");
 		System.out.println("noch mehr Text");
 		System.out.println("Wer da liest ist doof");
+		System.out.println("Daoskcmawsokdm");
 	}
 
 }
